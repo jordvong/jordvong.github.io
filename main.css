@@ -1,0 +1,152 @@
+
+/* HEADER CSS CODES */
+
+body {
+    background-color: rgb(255, 226, 231);
+}
+h1 {
+    color:palevioletred;
+    font-size: 48px;
+    font-family:'Futura', sans-serif;
+}
+.header {
+    font-family: 'gill sans', sans-serif;
+    background-color: rgb(255, 226, 231);
+    position: sticky;
+    top: 0;
+    text-align: left;
+    z-index: 1;
+}
+
+.contact {
+    text-align: right;
+
+}
+
+.email:hover {
+    opacity: .1;
+}
+.instagram:hover {
+    opacity: .1;
+}
+
+.titles {
+    font-family: 'gill sans', sans-serif;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+a:link {
+    color: rgb(25, 25, 25);
+}
+a:visited {
+    color:rgb(25, 25, 25);
+}
+a:hover {
+    color: white;
+    transition: .5s ease;
+}
+
+.categories {
+    font-size: 24px;
+    text-align: center;
+    text-transform: lowercase;
+    padding-bottom: 10px;
+}
+
+/* HOME CSS CODES */
+
+.home-row {
+    padding-top: 30px;
+    display: grid;
+    grid-template-areas:
+    'image image image image';
+}
+
+.icon:hover {
+    opacity: .5;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.icon:hover .middle {
+    opacity: 1;
+}
+  
+.text {
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-size: 24px;
+    font-family: 'Futura', sans-serif;
+    padding: 10px;
+    margin-bottom: 1px;
+}
+
+/* ABOUT CSS CODES */
+
+.about-container {
+    display: grid;
+    grid-template-areas: 'image main';
+}
+
+.main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    padding-top: 12px;
+}
+
+
+/* DESIGN & PHOTOGRAPHY CSS CODES */
+
+.image {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+
+}
+.image-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.image-column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 12px;
+}
+
+.work:hover {
+    transition: .5s ease;
+    transform: scale(1.05);
+}
+
+/* FISHBOWL CSS CODES */
+
+.logo {
+    text-align: center;
+}
+
+.fishbowl {
+    font-family: 'gill sans', sans-serif;
+    font-size: 24px;
+    padding: 15px;
+    text-align: center;
+}
+
+.fishbowl-container {
+    padding-top: 30px;
+    display: grid;
+    grid-template-areas:
+    'image image image';
+}
+
+
+
+
