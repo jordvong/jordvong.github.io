@@ -1,0 +1,30 @@
+.container > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-family: 'Helvetica', sans-serif;
+    color: #292929;
+}
+
+html, body {
+  background-color: rgb(241, 231, 182);
+  margin: 10px;
+}
+
+.container > div:nth-child(1n) {
+  background-color: pink;
+  font-size: 30px;	
+}
+
+.container > div:nth-child(2n) {
+  background-color: rgb(241, 231, 182);
+}
+
+.container > div:nth-child(3n) {
+  background-color: rgb(241, 231, 182);
+}
+.container > div:nth-child(4n) {
+  background-color: pink;
+  font-size: 14px;
+}
