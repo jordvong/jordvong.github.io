@@ -1,2 +1,6 @@
 # jordvong.github.io
 My portfolio site final!
+
+
+	For my website, I wanted to create something that would appeal to my overall style and aesthetic with design, but also have some clear navigation and subtle, yet nice effects. To achieve this, I used two very modern and distinct fonts, Futura and Gill Sans, to varying effects. I also wanted to incorporate my work into my website as much as possible. I had every work on the site increase in size when hovered over with the clicker. Lastly, I used opacity tricks as a means to “highlight” what users are hovering over, as a means to emphasize where they are about to navigate to.
+	This is a project that I spent a lot of time on. And though it is “complete” for the assignment, it is not complete in my eyes. I have a long way to go before I even consider this website “good enough,” and even once it is good enough, I will want to perfect it. Though I put in as much of my “good” work that I could find, I want to look through this every month or so or when I create new projects and see what is deemed worthy to be on my site. This is an everlasting project for me, and I hope that eventually it will be good enough to help me towards a career in graphic design and web design.
